@@ -1,5 +1,6 @@
 #include <iostream>
 #include<cstdlib>
+#include <ctime>
 using namespace std;
 int main(){
     float a[20],b[20],c[20],pi=0;
